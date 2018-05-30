@@ -1,4 +1,6 @@
 # MapReduceDemo
+**开发环境：IDEA+hadoop2.6.4（windows版本对应的各种库）**
+
 学了这么久的大数据知识，最近总算有时间来总结下最近学的Demo。
 先介绍下MR中的各种自定义组件：详细知识请参考我的博客：https://blog.csdn.net/qq_16633405/article/details/78924165
 
