@@ -1,4 +1,6 @@
 # MapReduceDemo
+**自己总结的关于MapReduce过程中各种自定义组件如何实现的Demo程序，内附详细的注释。**
+
 **开发环境：IDEA+hadoop2.6.4（windows版本对应的各种库）**
 
 学了这么久的大数据知识，最近总算有时间来总结下最近学的Demo。
